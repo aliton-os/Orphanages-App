@@ -22,7 +22,7 @@ function OrphanagesMap() {
 
                 <footer>
                     <strong>Maceió</strong>
-                    <span>Alagoas</span>
+                    <span>Alagoas-Brasil</span>
                 </footer>
             </aside>
 
